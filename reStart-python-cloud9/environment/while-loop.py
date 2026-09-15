@@ -1,17 +1,12 @@
-print("Welcome to Guess the Number!")
-print("The rules are simple. I will think of a number, and you will try to guess it.")
+Este es mi primer proyecto, pero estoy seguro de que será el primero de muchos.
 
-import random
+Hoy comienza un nuevo camino. Quizás la vida no me esté sonriendo como quisiera, pero sigo avanzando, aprendiendo y apostando por mí.
 
-number = random.randint(1,10)
-isGuessRight = False
-    
-while isGuessRight != True:
-          guess = input("Guess a number between 1 and 10: ")
-          if int(guess) == number:
-            print("You guessed {}. That is correct! You win!".format(guess))
-            isGuessRight = True
-          else:
-            print("You guessed {}. Sorry, that isn’t it. Try again.".format(guess))
-            
-            
+Este proyecto representa mucho más que un comienzo: representa la decisión de no rendirme y de construir, paso a paso, la vida que quiero.
+
+Tal vez hoy solo sea el primer paso, pero tengo la certeza de que algún día miraré hacia atrás y recordaré este momento como el punto donde todo empezó a cambiar.
+
+El primero de muchos. El comienzo de algo mejor.
+
+
+    22-02-2020
